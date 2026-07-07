@@ -20,5 +20,4 @@ Organizations adopting both instruments need to see where an AIMS clause support
 
 ## Disclaimer
 
-Personal academic work, published in my capacity as researcher and lecturer. It does not represent the position of any employer or institution, and it is not legal advice.# ai-governance-crosswalk
-Working crosswalk between ISO/IEC 42001:2023 and NIST AI RMF 1.0, from a GRC practitioner's perspective.
+Personal academic work, published in my capacity as researcher and lecturer. It does not represent the position of any employer or institution, and it is not legal advice.
