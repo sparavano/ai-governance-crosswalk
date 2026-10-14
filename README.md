@@ -21,3 +21,5 @@ Organizations adopting both instruments need to see where an AIMS clause support
 ## Disclaimer
 
 Personal academic work, published in my capacity as researcher and lecturer. It does not represent the position of any employer or institution, and it is not legal advice.
+
+*Reflexión personal, académica y de divulgación. No representa la posición de ningún organismo o institución en la que me desempeñe o haya desempeñado funciones (Ley 25.188).*
